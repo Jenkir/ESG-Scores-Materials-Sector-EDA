@@ -13,7 +13,7 @@ Each industry has different material issues that are the most pertinent to how i
 In this project, we explore the ESG ratings of companies in the GICS 'Materials' sector. The data was primarily pulled from [ESGAnalytics.io[(https://www.esganalytics.io/), Finazon.io, and Yahoo Finance APIs. ESG Analytics extracts over 1 million data points per month to "to deliver a third-party perspective on company ESG performance." Using AI, they generate ESG scores based on unstructured text from media stories, press releases, and other publicly available information. They provide data for over 10,000 companies (mostly public and some private). Finazon is a "marketplace for global financial data APIs "providing real-time stock market data." Yahoo Finance is well-known as a source of up-to-date stock and financial information.
 
 This project also includes ESG scores from other ratings providers such as Sustainalytics, S&P Global, and MSCI. Each of the providers compiles data and scores companies differently. Normalized scores are provided (by ESGAnalytics) to make comparing companies' scores easier. 
-For a summary of each providers' ESG ratings process, see https://cherrytreelaneanalytics.io/help-and-faqs/how-to-compare-scores/
+For more details about providers' ESG ratings processes, see https://cherrytreelaneanalytics.io/help-and-faqs/how-to-compare-scores/
 
 ### FAQs
 **What is considered a "good" score?**
@@ -30,3 +30,5 @@ The company details (address, etc.) were extracted from ESGAnalytics.io and Yaho
 The ESG ratings were extracted for the year 2023. Most providers update ESG ratings for companies once per year unless there is a drastic development.
 
 The EDA for this project includes discovering the mean and median ESG scores for companies in this sector, which subindustries are included in this sector (such as Industrial Machinery, Trucking, and Commercial Printing), the frequency of ESG ratings for companies in this sector, and which companies in the trucking subindustry have the highest and lowest scores.
+
+**Is there a data dictionary available?**
