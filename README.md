@@ -1,8 +1,10 @@
 # Exploratory Data Analysis of ESG scores 
 ## For companies in the "Materials" sector
-See the "Materials.ipynb" file for an Exploratory data analysis (EDA) of ESG scores &amp; stock market data for companies in the Materials sector. 
+See the "Materials.ipynb" file for an exploratory data analysis (EDA) of ESG scores &amp; stock market data for companies in the Materials sector.
+ 
+![heatmap2](https://github.com/user-attachments/assets/4d5c712e-3a53-4c5e-bb05-88df91f9851c)
 
-![alt text]:(https://cherrytreelaneanalytics.io/wp-content/uploads/2024/07/heatmap1.png)
+
 
 When comparing ESG scores of different companies, it's important to compare a company against its peers in the same sector or industry. One framework used for classifying companies is the Global Industry Classification Standard (GICS) which includes 11 overarching sectors, and then further narrows down the classfication to 25 industry groups, 74 industries, and then into 163 subindustries. The way that a company is classified primarily depends on its main revenue source.
 
