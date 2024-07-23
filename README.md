@@ -50,6 +50,12 @@ Yes. See https://cherrytreelaneanalytics.io/help-and-faqs/data-dictionary/
 
 
 
+![paper-packaging2](https://github.com/user-attachments/assets/b0a303ba-40a4-4b4c-9c89-6f4b3696a35a)
+
+
+
 
 *To view the code/ Jupyter notebook for the EDA, see the "Materials.ipynb" file.*
+
+#### To view & download inexpensive ESG datasets for your own EDA and visualizations, visit [ESG Data Shop](https://cherrytreelaneanalytics.io/browse-esg-datasets/).
 
